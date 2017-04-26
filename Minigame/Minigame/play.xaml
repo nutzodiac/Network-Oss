@@ -1,0 +1,20 @@
+﻿<Page x:Class="Minigame.play"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+	Title="play" Width="800" Height="600" Background="Black" Foreground="Black" Loaded="Page_Loaded">
+    <Canvas HorizontalAlignment="Left" Height="600" VerticalAlignment="Top" Width="800">
+        <Image Height="600" Width="800" Source="res/road1.png" Stretch="Fill"/>
+        <Image Height="478" Width="800" Source="res/bg.png" Stretch="Fill"/>
+        <Image x:Name="player" Height="122" Canvas.Left="68" Canvas.Top="405" Width="87" Source="res/1.png"/>
+        <Image x:Name="bot" Height="130" Canvas.Left="602" Canvas.Top="397" Width="188" Source="res/bot1.png" Stretch="Fill" RenderTransformOrigin="0.352,0.049"/>
+        <ProgressBar x:Name="progressbarplayer" Height="25" Canvas.Left="28" Canvas.Top="25" Width="294" Value="100" Background="White" Foreground="#FF16FD40"/>
+        <ProgressBar x:Name="progressbarbot" Height="25" Canvas.Left="460" Canvas.Top="25" Width="313" Value="100" Foreground="#FFFF1616"/>
+        <Label Content="PLAYER" Canvas.Left="83" Canvas.Top="55" Height="69" Width="170" FontSize="48" Background="#FF706A6A"/>
+        <Label Content="   BOT" Canvas.Left="554" Canvas.Top="55" Height="69" Width="170" FontSize="48" Background="#FF706A6A"/>
+        <Button x:Name="btn" Content="Button" Canvas.Left="131" Canvas.Top="242" Width="58" Height="39" Click="Button_Click"/>
+    </Canvas>
+</Page>

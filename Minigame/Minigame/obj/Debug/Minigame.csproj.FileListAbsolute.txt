@@ -1,0 +1,15 @@
+C:\Project net&OS\Minigame\Minigame\bin\Debug\Minigame.exe.config
+C:\Project net&OS\Minigame\Minigame\bin\Debug\Minigame.exe
+C:\Project net&OS\Minigame\Minigame\bin\Debug\Minigame.pdb
+C:\Project net&OS\Minigame\Minigame\obj\Debug\Minigame.csprojResolveAssemblyReference.cache
+C:\Project net&OS\Minigame\Minigame\obj\Debug\MainWindow.baml
+C:\Project net&OS\Minigame\Minigame\obj\Debug\MainWindow.g.cs
+C:\Project net&OS\Minigame\Minigame\obj\Debug\App.g.cs
+C:\Project net&OS\Minigame\Minigame\obj\Debug\Minigame_MarkupCompile.cache
+C:\Project net&OS\Minigame\Minigame\obj\Debug\Minigame.g.resources
+C:\Project net&OS\Minigame\Minigame\obj\Debug\Minigame.Properties.Resources.resources
+C:\Project net&OS\Minigame\Minigame\obj\Debug\Minigame.csproj.GenerateResource.Cache
+C:\Project net&OS\Minigame\Minigame\obj\Debug\Minigame.exe
+C:\Project net&OS\Minigame\Minigame\obj\Debug\Minigame.pdb
+C:\Project net&OS\Minigame\Minigame\obj\Debug\play.baml
+C:\Project net&OS\Minigame\Minigame\obj\Debug\play.g.cs
